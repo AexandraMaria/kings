@@ -1,4 +1,4 @@
-date,average temperature ,minimum temperature ,maximum temperature,precipitation duration,daily precipitation ,maximum instantaneous wind speed,maximum instantaneous wind speed direction,maximum wind speed,maximum wind speed direction,average wind speed,"
+Date,AverageTemperature ,MinimumTemperature ,MaximumTemperature,PrecipitationDuration,DailyPrecipitation ,MaximumInstantaneousWindSpeed,maximum instantaneous wind speed direction,maximum wind speed,maximum wind speed direction,average wind speed,"
 minimum relative humidity",average relative humidity,average local pressure,tune time,total sunshine hours,average electric current,mean middle load
 2018-01-01,2.1,-0.4,6.2,,,10.9,340,7.1,320,3.3,17,32,1015.2,9.8,9.1,0,0
 2018-01-02,3.7,-1,8,,,9.4,340,4.9,290,1.9,25,43.5,1016.1,9.8,8.1,2.4,1.8
